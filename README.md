@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+ to check this app
+ ```
+ https://textutils-play.netlify.app/
+ ```
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
